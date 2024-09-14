@@ -1,2 +1,13 @@
-# backend-socail-meadia
-This repository contains the backend implementation for a social media application. The backend is designed to handle user management, posts, comments, and likes functionalities. It provides a robust and scalable API to support the core features of a social media platform.
+# Social Media Backend
+
+## Overview
+
+This repository provides the backend for a social media application, supporting user management, posts, comments, and likes. This API is designed to be scalable and secure, using JWT for authentication.
+
+## Features
+
+- User Registration and Login
+- Post Management (CRUD)
+- Comment Management (CRUD)
+- Like/Unlike Posts
+- Secure Authentication
